@@ -1,0 +1,4 @@
+/vendor/
+/var/
+/public/uploads/
+/docker-compose.override.yml

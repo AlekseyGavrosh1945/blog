@@ -1,0 +1,18 @@
+{
+    "name": "alexey/project",
+    "description": "Блог с категориями и статьями на PHP, Smarty и MySQL",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo_mysql": "*",
+        "smarty/smarty": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
