@@ -2,3 +2,4 @@
 /var/
 /public/uploads/
 /docker-compose.override.yml
+/.idea/
