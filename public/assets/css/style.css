@@ -12,7 +12,7 @@ body {
 }
 
 a {
-  color: #2f6fed;
+  color: #83eb34;
 }
 a:hover {
   text-decoration: none;
@@ -38,7 +38,7 @@ a:hover {
   color: #1f2430;
 }
 .logo:hover {
-  color: #2f6fed;
+  color: #83eb34;
 }
 
 .site-footer {
@@ -65,7 +65,7 @@ a:hover {
   color: #1f2430;
 }
 .section-title a:hover {
-  color: #2f6fed;
+  color: #83eb34;
 }
 
 .section-description {
@@ -126,7 +126,7 @@ a:hover {
   display: inline-block;
   padding: 9px 18px;
   border-radius: 10px;
-  background: #2f6fed;
+  background: #83eb34;
   color: #fff;
   font-size: 14px;
 }
@@ -157,7 +157,7 @@ a:hover {
 .toolbar a.active {
   border-color: #e3e5ea;
   background: #fff;
-  color: #2f6fed;
+  color: #83eb34;
 }
 
 .pagination {
@@ -177,12 +177,12 @@ a:hover {
   font-size: 14px;
 }
 .pagination a:hover {
-  border-color: #2f6fed;
-  color: #2f6fed;
+  border-color: #83eb34;
+  color: #83eb34;
 }
 .pagination .active {
-  background: #2f6fed;
-  border-color: #2f6fed;
+  background: #83eb34;
+  border-color: #83eb34;
   color: #fff;
 }
 
